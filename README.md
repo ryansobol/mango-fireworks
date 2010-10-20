@@ -31,3 +31,5 @@ Built with [Mango](http://github.com/ryansobol/mango)
                 ├── 404.haml
                 ├── layout.haml
                 └── page.haml
+
+    9 directories, 16 files
