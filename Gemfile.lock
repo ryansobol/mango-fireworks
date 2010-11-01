@@ -21,4 +21,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 1.0.0)
   mango (~> 0.5.0)
