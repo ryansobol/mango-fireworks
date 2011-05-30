@@ -10,7 +10,7 @@ GEM
       multi_json (~> 1.0)
     haml (3.1.1)
     liquid (2.2.2)
-    mango (0.6.0)
+    mango (0.6.1)
       bluecloth (~> 2.1.0)
       bundler (~> 1.0.7)
       coffee-script (~> 2.2.0)
@@ -34,5 +34,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  mango (~> 0.6.0)
+  mango (~> 0.6.1)
   therubyracer-heroku (= 0.8.1.pre3)
