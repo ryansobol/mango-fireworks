@@ -1,3 +1,3 @@
-# encoding: UTF-8
 source "http://rubygems.org"
-gem "mango", "~> 0.6.2"
+ruby "2.1.5"
+gem "mango", "~> 0.8.0"
